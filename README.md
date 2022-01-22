@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @sub0ne1
-- 👀 I’m interested in Information security, Cryptography and Malware analysis.
-- 🌱 I’m currently learning Cryptography
-- 💞️ I’m looking to collaborate on playing CTFs or working on a interesting project.
-- 📫 You can reach out to me on twitter @sub0ne1
+- 👀 I’m a computer programmer, Information Security Researcher and occasional piano player
 
 <!---
 sub0ne1/sub0ne1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
