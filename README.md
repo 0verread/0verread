@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Subhajit (@0verread)
-- 👀 I’m a computer programmer, Information Security Researcher
+- 👋 Hi, I’m Subhajit
 
 <!---
 sub0ne1/sub0ne1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
