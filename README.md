@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-## I'm Subhajit.
+## I'm Jeet.
 
 ### 💻 &nbsp;About Me 
 
