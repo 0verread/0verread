@@ -8,7 +8,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; I like to write softwares and security tools.
+- 🤔 &nbsp; I like writing softwares and security tools.
 - 🎓 &nbsp; Studying Computer Science at Boston University.
 
 
