@@ -12,4 +12,4 @@
 - 🎓 &nbsp; Studying Computer Science at Boston University.
 
 
-I write C/C++, python, Javascript.
+I write C/C++, python, Javascript, SQL.
