@@ -6,7 +6,7 @@
 
 ## I'm Jeet.
 
-### 💻 &nbsp;about Me 
+### 💻 &nbsp; little about Me 
 
 - 🤔 &nbsp; I like writing softwares and security tools.
 - 🎓 &nbsp; Studying Computer Science at Boston University.
