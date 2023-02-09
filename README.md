@@ -7,8 +7,8 @@
 ## I'm Jeet.
 
 - 🎓 &nbsp; Studying Computer Science at Boston University.
-- 👨🏽‍💻 I’m currently learning Go, Typescript and Mobile app development.
-- 💬 Say hi 👋[here](mailto:iamsubhajit.d@gmail.com). 
+- 👨🏽‍💻 &nbsp; I’m currently learning Go, Typescript and Mobile app development.
+- 💬 &nbsp; Say hi 👋[here](mailto:iamsubhajit.d@gmail.com). 
 
 ## Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/></code>
