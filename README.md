@@ -17,3 +17,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Mokshit06/Mokshit06/master/assets/mongodb.svg"></code>
+<code><img height="20" src=".assets/python.svg"></code>
