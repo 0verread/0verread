@@ -8,7 +8,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at Boston University.
 - 👨🏽‍💻 &nbsp; I’m currently learning Go, Typescript and Mobile app development.
-- 💬 &nbsp; Say hi 👋 [email me](mailto:iamsubhajit.d@gmail.com). 
+- 💬 &nbsp; Say hi 👋 [email](mailto:iamsubhajit.d@gmail.com). 
 
 ## Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/0verread/0verread/main/assets/python.svg"></code>
