@@ -7,7 +7,7 @@
 ## i am Jeet.
 
 - 🎓 &nbsp; Studying Computer Science at Boston University.
-- 👨🏽‍💻 &nbsp; I’m currently learning Go, Typescript and Mobile app development.
+- 👨🏽‍💻 &nbsp; I’m currently learning Go, Typescript, and Mobile app development.
 - 💬 &nbsp; Say hi 👋 [email](mailto:iamsubhajit.d@gmail.com). 
 
 ## Projects
