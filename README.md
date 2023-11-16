@@ -19,10 +19,6 @@ projects I have built ( a lot of them are private repo):
 - [bypass40X](https://github.com/0verread/bypass40X) - security tool to bypass 40X (i.e. 404, 405 etc) status code
 - [... more]()
 
-[![Jeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=0verread)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ## Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/0verread/0verread/main/assets/python.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/></code>
