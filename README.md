@@ -8,7 +8,6 @@
 
 - 🎓 &nbsp; Studying Computer Science at Boston University.
 - 👨🏽‍💻 &nbsp; I’m currently learning Typescript and Golang.
-- 💬 &nbsp; Say hi 👋 [email](mailto:iamsubhajit.d@gmail.com). 
 
 ## Projects
 projects I have built ( a lot of them are private repo):
