@@ -4,11 +4,6 @@
 
 ## hi there, hello 👋
 
-## i am Jeet.
-
-- 🎓 &nbsp; Studying Computer Science at Boston University.
-- 👨🏽‍💻 &nbsp; I’m currently learning Typescript and Golang.
-
 ## Projects
 projects I have built ( a lot of them are private repo):
 
@@ -17,13 +12,3 @@ projects I have built ( a lot of them are private repo):
 - [smart-commit](https://github.com/0verread/smart-commit) - generate git commit message using AI
 - [bypass40X](https://github.com/0verread/bypass40X) - security tool to bypass 40X (i.e. 404, 405 etc) status code
 - [... more]()
-
-## Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/0verread/0verread/main/assets/python.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/0verread/0verread/main/assets/Django.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/0verread/0verread/main/assets/mongodb.svg"></code>
