@@ -5,7 +5,7 @@
 ## hi there, hello 👋
 
 ## Projects
-projects I have built ( a lot of them are private repo):
+projects I have built ( a lot of them are private repo): they fe
 
 - [Goose]() - VS code extension 
 - [text2query](https://github.com/0verread/text2query) <code style="color : red">*WIP*</code> - rest api for teams to build internal chatbot to get in-depth data insights. 
