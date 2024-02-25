@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/hRRM9D2wGVuxOz1RmZ/giphy.gif" width="200"/>
 </div>
 
-## hi there, hello 👋
-
 ## Projects
 projects I have built ( a lot of them are private repo):
 
