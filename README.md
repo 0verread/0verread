@@ -4,6 +4,8 @@ listen, the pinned projects are the ones i'm actively working on this year. they
 
 ### projects
 
+  :boom: [closecall](https://github.com/0verread/closecall) - a lightweight npm package to keep llm calls within the relevant keywords
+
   :joystick: [minigrad](https://github.com/0verread/minigrad) - a small neural networks library with PyTorch-like API
 
   :cop: [goralim](https://github.com/0verread/goralim) - golang rate limiter for distributed systems
