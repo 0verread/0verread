@@ -1,6 +1,6 @@
 ## oh, you're here!
 
-listen, the pinned projects are the ones i'm actively working on this year. they keep getting updated because i start new side projects faster than i change my clothes. but don't be shy to browse all repos. all the the projects that i've finished to publish to v0 are listed below. and hey, i love you guys.
+feel free to explore.
 
 ### projects
 
