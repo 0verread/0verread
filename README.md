@@ -4,6 +4,8 @@ currently, i'm actively working one [indexone](https://www.indexone.dev) - helpi
 
 ### projects
 
+  - [peek](https://github.com/0verread/peek) - my own curl to test rest apis
+  - [indexone](https://www.indexone.dev) -  everyday, fresh new dev jobs
   - [closecall](https://github.com/0verread/closecall) - a lightweight npm package to keep llm calls within the relevant keywords
   - [minigrad](https://github.com/0verread/minigrad) - a small neural networks library with PyTorch-like API
   - [goralim](https://github.com/0verread/goralim) - golang rate limiter for distributed systems
