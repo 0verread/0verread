@@ -1,6 +1,5 @@
 ## oh, you're here!
-
-currently, i'm actively working one [indexone](https://www.indexone.dev) - helping people to discover new jobs. feel free to explore.
+feel free to explore.
 
 ### projects
 
