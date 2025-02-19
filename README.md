@@ -1,6 +1,4 @@
-## oh, you're here!
-feel free to explore.
-
+some of my projects that saw light
 ### projects
 
   - [peek](https://github.com/0verread/peek) - my own curl to test rest apis
