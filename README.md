@@ -1,4 +1,4 @@
-Currently actively working on building a better Jira [backtick](www.backtickai.com)
+Currently actively working on building a better Jira [backtick](https://www.backtickai.com)
 
 ### projects
 
