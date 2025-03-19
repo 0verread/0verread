@@ -1,4 +1,5 @@
-some of my projects that saw light
+Currently actively working on building a better Jira [backtick](www.backtickai.com)
+
 ### projects
 
   - [peek](https://github.com/0verread/peek) - my own curl to test rest apis
