@@ -1,6 +1,6 @@
 Currently actively working on building a better Jira [backtick](https://www.backtickai.com)
 
-### projects
+### other projects
 
   - [peek](https://github.com/0verread/peek) - my own curl to test rest apis
   - [indexone](https://www.indexone.dev) -  everyday, fresh new dev jobs
