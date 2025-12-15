@@ -1,4 +1,4 @@
-I'm currently actively working on building a better Jira [backtick](https://www.backtickai.com)
+I'm currently actively working on [modulus](https://modulus.so)
 
 ### other projects
 
