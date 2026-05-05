@@ -1,1 +1,2 @@
-doing [Rust](https://rust-lang.org/)
+doing [Rust](https://rust-lang.org/) fulltime
+
