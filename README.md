@@ -1,2 +1,5 @@
-doing [Rust](https://rust-lang.org/) fulltime
+All you need 
+- Python
+- Typescript
+- Rust
 
