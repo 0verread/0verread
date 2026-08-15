@@ -1,5 +1,5 @@
 All you need 
-- Python
-- Typescript
-- Rust
+- [Python](https://www.python.org)
+- [Typescript](https://www.typescriptlang.org)
+- [Rust](https://rust-lang.org)
 
